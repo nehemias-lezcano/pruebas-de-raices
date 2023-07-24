@@ -56,10 +56,13 @@
     margin: 10px auto;
     border: none;
     background: #D4A373;
-    color: #fff;
     padding: 5px 15px;
     border-radius: 40px;
     cursor: pointer;
     font-size: 22px;
+}
+.boton--tarjeta a{
+    text-decoration: none;
+    color: #fff;
 }
 
